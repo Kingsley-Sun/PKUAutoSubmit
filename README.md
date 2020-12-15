@@ -1,4 +1,5 @@
 # PKUAutoSubmit (modified)
+TEST
 
 **UPDATE 2020/10/18**
 
